@@ -5,7 +5,7 @@
 <h3 align="center"> Coder | Full Stack Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=02daed&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Learning+New+Technologies;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=02daed&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Coder" />
 </p>
 
 
