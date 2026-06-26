@@ -1,4 +1,8 @@
 <!-- GitHub Profile README -->
+<p align="center">
+  <img src="header.gif" width="600px">
+</p>
+
 
 <h1 align="center">Hello 👋, I'm Kusa Raja</h1>
 
