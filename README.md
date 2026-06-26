@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello 👋, I'm Kusa Raja</h1>
 
-<h3 align="center">AI & ML Student | Full Stack Developer | Problem Solver</h3>
+<h3 align="center"> Coder | Full Stack Developer | Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=02daed&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Learning+New+Technologies;Building+Real+World+Projects" />
