@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, Kusaraja here
 
 # 💫 About Me:
 🔭 Currently exploring Full Stack Development and building projects to strengthen my skills<br><br>🌱 Learning React.js, Node.js, Python, and Machine Learning concepts<br><br>🤖 Passionate about Artificial Intelligence, web development, and solving real-world problems<br><br>💻 Enjoy writing clean code, improving my problem-solving skills, and creating useful applications<br><br>🚀 Building my knowledge through projects, practice, and continuous learning<br><br>📚 Always curious to explore new technologies and understand how things work
