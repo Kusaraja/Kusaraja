@@ -1,26 +1,102 @@
-## Hi there 👋, Kusaraja here
+<!-- GitHub Profile README -->
 
-# 💫 About Me:
-🔭 Currently exploring Full Stack Development and building projects to strengthen my skills<br><br>🌱 Learning React.js, Node.js, Python, and Machine Learning concepts<br><br>🤖 Passionate about Artificial Intelligence, web development, and solving real-world problems<br><br>💻 Enjoy writing clean code, improving my problem-solving skills, and creating useful applications<br><br>🚀 Building my knowledge through projects, practice, and continuous learning<br><br>📚 Always curious to explore new technologies and understand how things work
+<h1 align="center">Hello 👋, I'm Kusa Raja</h1>
 
+<h3 align="center">AI & ML Student | Full Stack Developer | Problem Solver</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kusaraja-n-6a9251291/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kusarajanaidana@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=02daed&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Learning+New+Technologies;Building+Real+World+Projects" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Kusaraja&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Kusaraja&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kusaraja&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kusaraja&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kusaraja&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Kusaraja&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔥 About Me
+
+- 🔭 Currently exploring **Full Stack Development** and building practical applications
+- 🌱 Improving my skills in **React.js, Node.js, Python, and Machine Learning**
+- 🤖 Interested in **Artificial Intelligence, Web Development, and innovative solutions**
+- 💻 Passionate about writing clean code and solving real-world problems
+- 📚 Always curious to learn new technologies and understand how things work
+
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode" />
+</p>
+
+
+---
+
+### 🚀 Projects
+
+### 🎬 IMDb Movie Review Sentiment Analyzer
+- Built a machine learning based sentiment analysis project
+- Uses NLP concepts to classify movie reviews
+
+### 🌐 Full Stack Applications
+- Developing applications using React.js, Node.js and databases
+
+
+---
+
+### 🌟 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kusaraja&show_icons=true&theme=react" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=Kusaraja&theme=react" />
+
+</p>
+
+
+---
+
+### 📊 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kusaraja&layout=compact&theme=react" />
+
+</p>
+
+
+---
+
+### 🧠 Coding Profiles
+
+<p align="center">
+
+<a href="https://github.com/Kusaraja">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kusaraja-n-6a9251291/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kusarajanaidana@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+
+---
+
+### ⚡ Fun Fact
+
+- I enjoy learning how technology works and turning ideas into projects 🚀
+
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
